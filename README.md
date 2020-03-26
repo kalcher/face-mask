@@ -1,5 +1,5 @@
 # face-mask
-3D model for a simple clip to create a makeshift face mask from tissue or cloth. Can be printed with minimal material.
+3D model for a simple clip to create a makeshift face mask from a paper tissue or a piece of cloth. Can be printed with minimal material. The clip is fully reusable after replacing the cloth/tissue.
 
 ![3dmodel](https://github.com/kalcher/face-mask/blob/master/images/3dmodel.png)
 
